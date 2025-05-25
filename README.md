@@ -1,6 +1,6 @@
 <p align="center">
   
-                ![image](https://github.com/user-attachments/assets/b9542394-d8f1-4500-8e39-71bd2977ba07)  
+  ![image](https://github.com/user-attachments/assets/b9542394-d8f1-4500-8e39-71bd2977ba07)  
 
 </p>
 
@@ -27,13 +27,19 @@ This tutorial outlines the step-by-step process for installing Proton VPN to ens
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.gyazo.com/f21bb85ab7219dcd16c2e0cf8a4b0690.png" height="80%" width="80%" alt="Configure VPN Steps"/>
+
+![image](https://github.com/user-attachments/assets/cd61193f-11d3-4e0d-b12e-1a84adfa186f)
+
 </p>
 <p>
-<img src="https://i.gyazo.com/67c0002f8368bb79dc0c0cd886aaf479.png" height="80%" width="80%" alt="Configure VPN Steps"/>
+
+![image](https://github.com/user-attachments/assets/8a9d5b91-8e12-4822-9e0b-806a834e7bd9)
+
 </p>
 <p>
-I began by creating a new virtual machine (VM) within Microsoft Azure, carefully selecting the configuration based on my desired specifications. Once the VM was successfully provisioned, I ensured it was ready for remote access. To log onto the VM, I used Remote Desktop Connection to securely connect, entering the necessary credentials to establish the session.
+  
+I set up a virtual machine in Microsoft Azure, selecting the appropriate configuration for my needs. After provisioning, I enabled remote access and securely connected to the VM using its public IP address through Remote Desktop Connection, entering my credentials to start the remote session.
+
 </p>
 <br />
 
