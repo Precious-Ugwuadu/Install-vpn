@@ -1,5 +1,7 @@
 <p align="center">
+  
 ![image](https://github.com/user-attachments/assets/b9542394-d8f1-4500-8e39-71bd2977ba07)
+
 </p>
 
 <h1>Proton VPN - Installation</h1>
