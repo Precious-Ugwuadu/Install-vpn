@@ -70,6 +70,9 @@ I proceeded to download and install the VPN client, which is the software that w
 
 ![image](https://github.com/user-attachments/assets/dc0b4064-c3a5-41f0-9001-51be86bc24d7)
 
+![image](https://github.com/user-attachments/assets/2fdea2a8-3e96-4ca6-a0f8-7a84c99b8709)
+
+
 
 </p>
 <p>
