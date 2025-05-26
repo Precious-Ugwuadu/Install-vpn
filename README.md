@@ -74,7 +74,7 @@ The installation was simple, and I verified that the VPN client was correctly se
 
 ![image](https://github.com/user-attachments/assets/2fdea2a8-3e96-4ca6-a0f8-7a84c99b8709)
 
-I clicked on the country "Nigeria," but it prompted me to pay and automatically brought me the Netherlands. So, what just happened here is that my VM connected to a random server in the Netherlands. 
+I clicked on the country "Nigeria," but it prompted me to pay and automatically brought me to the Netherlands. So, what just happened here is that my VM connected to a random server in the Netherlands. 
 
 ![image](https://github.com/user-attachments/assets/1b23b95f-3f6c-4e30-887c-05f92abe77f8)
 
