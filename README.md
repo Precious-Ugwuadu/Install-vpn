@@ -62,7 +62,7 @@ I signed in.
 
 ![image](https://github.com/user-attachments/assets/cc5cbc9e-0cd6-41e8-9f4b-b9ccda52f107)
 
-After signing in, I clicked on download and chose my operating system. 
+After signing in, I clicked on download and chose the operating system that applied to me. 
 
 ![image](https://github.com/user-attachments/assets/3747f82f-7aab-458f-ba3f-6cfbb3703df1)
 
