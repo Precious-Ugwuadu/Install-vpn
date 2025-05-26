@@ -70,43 +70,23 @@ I proceeded to download and install the VPN client, which is the software that w
 
 ![image](https://github.com/user-attachments/assets/dc0b4064-c3a5-41f0-9001-51be86bc24d7)
 
+The installation was simple, and I verified that the VPN client was correctly set up before moving forward.
+
 ![image](https://github.com/user-attachments/assets/2fdea2a8-3e96-4ca6-a0f8-7a84c99b8709)
 
+I clicked on the country "Nigeria," but it prompted me to pay and automatically brought me the Netherlands. So, what just happened here is that my VM connected to a random server in the Netherlands. 
 
+![image](https://github.com/user-attachments/assets/1b23b95f-3f6c-4e30-887c-05f92abe77f8)
+
+When I browse the internet while connected to the VPN, my traffic will appear to originate from the VPN server located in the Netherlands, making it seem as though I'm browsing from that country instead of my actual location.
 
 </p>
 <p>
-<img src="https://i.gyazo.com/1f21aed85f3704d3255a63da30ff97cf.jpg" height="80%" width="80%" alt="Configure VPN Steps"/>
-</p>
-<p>
-<img src="https://i.gyazo.com/6b8b102cc627ee5e681de36da45d035a.png" height="80%" width="80%" alt="Configure VPN Steps"/>
-</p>
-<p>
-After setting up and logging onto the virtual machine (VM), I proceeded to sign up for a Proton VPN account. Following the account creation, I downloaded and installed the Proton VPN client on the VM. The installation process was straightforward, and I ensured the client was properly installed before proceeding.
-</p>
-<br />
 
-<p>
-<img src="https://i.gyazo.com/939f6b5ea4d7b738479c305abc2f3f86.png" height="80%" width="80%" alt="Configure VPN Steps"/>
-</p>
-<p>
-<img src="https://i.gyazo.com/3ab93880b73d4b6eb59633425e15ff51.jpg" height="80%" width="80%" alt="Configure VPN Steps"/>
-</p>
-<p>
-<img src="https://i.gyazo.com/5ec1597a49d3c1803f349bab2d67b114.png" height="80%" width="80%" alt="Configure VPN Steps"/>
-</p>
-<p>
-To establish a baseline, I visited whatismyipaddress.com on the VM to record its original IP address, ISP, and location. Afterward, I connected to a Proton VPN server located in Japan. Once the VPN connection was established, I revisited the same website and observed the changes: the IP address, ISP, and location had all shifted to reflect the Japanese server, confirming that the VPN was working properly.
-</p>
-<br />
+![image](https://github.com/user-attachments/assets/5aed9438-511c-417a-b4a6-faf2ebedc1ed)
 
-<p>
-<img src="https://i.gyazo.com/bcbfd57da64cb9229d84d12f7c1b69d9.jpg" height="80%" width="80%" alt="Configure VPN Steps"/>
+To test the VPN connection, I tried browsing the internet and visited www.Disney.com. Because my VPN was connected to a server in the Netherlands, the website automatically detected my virtual location and displayed the content in Dutch, the official language of the Netherlands.
+
 </p>
 <p>
-<img src="https://i.gyazo.com/90f7f7e3939252de6d708b2e843bc0b8.jpg" height="80%" width="80%" alt="Configure VPN Steps"/>
-</p>
-<p>
-Finally, I conducted a practical test by opening Bing on the virtual machine. I searched for the term “Disney” both while connected to the VPN and again after disconnecting from the VPN. I observed that, while connected to the Japan server, the search results were tailored to the region (with Japanese language content and region-specific results). When disconnected, the search results reverted to the standard English version, indicating that the VPN connection influenced the language and regional search results.
-</p>
-<br />
+
