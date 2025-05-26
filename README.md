@@ -54,11 +54,16 @@ This image is from my VM from Canada Central with a non-VPN connection.
 
 ![image](https://github.com/user-attachments/assets/37897ab9-35b6-40e6-921d-4215af21bdaf)
 
-Next, I went to https://account.protonvpn.com/signup?plan=free&language=en and signed up for Proton VPN, downloaded  it, and checked for my Go-data. 
+Next, I went to https://account.protonvpn.com/signup?plan=free&language=en and signed up for Proton VPN.
 
 ![image](https://github.com/user-attachments/assets/97768f0e-d2ce-4d91-8277-1d6ee62bdb41)
 
-I downloaded it inside my VM by opening a browser and signing in. 
+I signed in. 
+
+![image](https://github.com/user-attachments/assets/cc5cbc9e-0cd6-41e8-9f4b-b9ccda52f107)
+
+After signing in, I clicked on download and chose my operating system. 
+
 
 
 </p>
