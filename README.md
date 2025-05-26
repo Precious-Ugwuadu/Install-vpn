@@ -43,8 +43,19 @@ I set up a virtual machine in Microsoft Azure, selecting the appropriate configu
 </p>
 <br />
 
+From my personal computer, I visited whatismyipaddress.com to record details such as my IP address, ISP, city, region, and country. I then did the same on the virtual machine (VM) — first without a VPN connection, and then with a VPN enabled — to observe how the IP address and location information changed when using a VPN.
+
+![image](https://github.com/user-attachments/assets/96fe5322-e520-484a-a2fc-bc5209c2c46c)
+
+This image is from my VM from Canada Central with a non-VPN connection.
+
+
 <p>
-<img src="https://i.gyazo.com/f563212d7120ee0ed2f48402dc10bff8.png" height="80%" width="80%" alt="Configure VPN Steps"/>
+
+![image](https://github.com/user-attachments/assets/37897ab9-35b6-40e6-921d-4215af21bdaf)
+
+Next, I will go to https://account.protonvpn.com/signup?plan=free&language=en and sign up for Proton VPN, downloaded  it, and check for my Go-data 
+
 </p>
 <p>
 <img src="https://i.gyazo.com/1f21aed85f3704d3255a63da30ff97cf.jpg" height="80%" width="80%" alt="Configure VPN Steps"/>
