@@ -78,7 +78,7 @@ I clicked on the country "Nigeria," but it prompted me to pay and automatically 
 
 ![image](https://github.com/user-attachments/assets/1b23b95f-3f6c-4e30-887c-05f92abe77f8)
 
-When I browse the internet while connected to the VPN, my traffic will appear to originate from the VPN server located in the Netherlands, making it seem as though I'm browsing from that country instead of my actual location.
+I went to this website  https://whatismyipaddress.com/ on the internet while connected to the VPN, my traffic appeared to originate from the VPN server located in the Netherlands, making it seem as though I'm browsing from that country instead of my actual location.
 
 </p>
 <p>
