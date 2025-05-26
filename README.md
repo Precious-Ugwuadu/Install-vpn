@@ -87,6 +87,11 @@ I went to this website  https://whatismyipaddress.com/ on the internet while con
 
 To test the VPN connection, I tried browsing the internet and visited www.Disney.com. Because my VPN was connected to a server in the Netherlands, the website automatically detected my virtual location and displayed the content in Dutch, the official language of the Netherlands.
 
+![image](https://github.com/user-attachments/assets/beeee60c-8dd6-4077-8ec6-8cbb61987ea9)
+
+This is the pictorial summary of everything I did. I connected from my personal computer to an Azure Virtual Machine (VM) using Remote Desktop Protocol (RDP). On the VM, I installed and connected to ProtonVPN, routing all internet traffic through a Netherlands VPN server. When the VM accesses public websites like whatismyipaddress.com, it appears to be browsing from the Netherlands. This setup demonstrates how VPNs can change one's visible IP address and location.
+
+
 </p>
 <p>
 
