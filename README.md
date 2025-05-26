@@ -64,6 +64,11 @@ I signed in.
 
 After signing in, I clicked on download and chose my operating system. 
 
+![image](https://github.com/user-attachments/assets/3747f82f-7aab-458f-ba3f-6cfbb3703df1)
+
+I proceeded to download and install the VPN client, which is the software that will create a secure connection between my computer and the VPN server. 
+
+![image](https://github.com/user-attachments/assets/dc0b4064-c3a5-41f0-9001-51be86bc24d7)
 
 
 </p>
